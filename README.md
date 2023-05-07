@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamiljanek&label=Profile%20views&color=0e75b6&style=flat" alt="kamiljanek" /> </p>
 
-<img align="right" height="260" src="https://img.freepik.com/free-vector/coding_53876-25854.jpg?w=1380&t=st=1683482653~exp=1683483253~hmac=120cadbdcb710e52c796be12f5bacafdaa1c881d595ed61cc7f53b7dac74108b" alt="Coding">
+<img align="right" height="240" src="https://img.freepik.com/free-vector/coding_53876-25854.jpg?w=1380&t=st=1683482653~exp=1683483253~hmac=120cadbdcb710e52c796be12f5bacafdaa1c881d595ed61cc7f53b7dac74108b" alt="Coding">
 
 
 - 🔭 I’m currently working on [Tibia Enemy Other Characters Finder](https://github.com/kamiljanek/Tibia-EnemyOtherCharactersFinder)
